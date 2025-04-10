@@ -19,12 +19,15 @@ This repository is designed as a template for your workshop materials. Use the p
 # Workshop Title
 
 ## Description
-[Brief Overview of the workshop, including main topic and goals]
+Learn the basics of web scraping using Python! We'll be going over how to scrape a few example websites.
+
 ## For Participants
 
 ### Setup Instructions
 1. **Prerequisites:** 
-    - [List any software, libraries, or tools required]
+    - Up-to-date Python
+    - Something you can code on and run python: An IDE or VSCode or Colab
+    - The following python libraries: pandas, requests, beautiful soup
 2. **Installation**
     1. Fork this repository by clicking the "Fork" button in the top-right corner.
     2. Ensure you're in your preferred directory and then clone your forked repository to your local machine by running:
@@ -34,10 +37,15 @@ This repository is designed as a template for your workshop materials. Use the p
      ```
     3. Install Dependencies:
     ```bash
-    [Installation command, e.g., pip install -r requirementst.txt]
+    pip install requests
+    pip install beautiful soup
+    pip install pandas
     ```
 ## External Sources:
-[List any resources, documentation, or references used in the workshop]
+Websites:
+[https://www.scrapethissite.com/]
+[https://books.toscrape.com/]
+[https://quotes.toscrape.com/]
 
 >[!TIP]
 >**💡 Need Help?** If you have any questions or run into issues, feel free to reach out to our team! 🚀
