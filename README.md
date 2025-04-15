@@ -1,22 +1,4 @@
-# For Workshop Leads
-> [!WARNING]
-> Remove this portion of the README.md file **AFTER** creating the repo, more explanation below.
-## Purpose for This Repository
-This repository is designed as a template for your workshop materials. Use the provided directories as you see fit:
-- **Workshop_Materials/:** Store beginner code, examples, datasets, dependencies, and your presentation files.
-
-- **Session_code/:** Use this directory for any live coding, demo scripts, or finished code examples.
-
-## Instructions for Leads
-1. Update the **For Participants** section of the README.md file with accurate setup instructions.
-2. Fill in relevent sections, such as prerequisites, installation commands, and dataset links.
-3. Make sure your presentation files are clear and accessible (PDF Slides)
-4. Clean up any unnessary files before sharing the repository with participants
-5. Add repository files into one directory within the [Put repo Name here] repository
-6. Archive the workshop repository that you created two weeks after running the workshop
-
-
-# Workshop Title
+# WebScraping Workshop
 
 ## Description
 Learn the basics of web scraping using Python! We'll be going over how to scrape a few example websites.
